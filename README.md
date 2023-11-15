@@ -1,5 +1,12 @@
-# INGENERIA DE SOFTWARE
-## LABORATORIO 5
+# INGENERIA DE SOFTWARE LABORATORIO 5
+## Selenium WebDriver para Calcular Porcentaje
+El código en `seleniumConfig.js` proporciona una función `calcular_porcentaje` que utiliza Selenium WebDriver para interactuar con el sitio web [Calculator.net](http://www.calculator.net/). La función toma dos parámetros, realiza operaciones en el sitio y devuelve el resultado del cálculo.
+
+selenium-Config.js
+
+
+
+
 
 |       ESCENARIO DE PRUEBA     |VALORES DE PRUEBA    |RESULTADO DE PRUEBA    |
 |----------------|-------------------------------|-----------------------------|
