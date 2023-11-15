@@ -1,5 +1,6 @@
 # INGENERIA DE SOFTWARE LABORATORIO 5
-![Mi Imagen](https://images.credly.com/images/e288c4e4-b0d0-4849-bb62-0c44118ec4cb/qunit.png) ![Mi Imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png)
+<img src="https://images.credly.com/images/e288c4e4-b0d0-4849-bb62-0c44118ec4cb/qunit.png" alt="Descripción de la imagen" width="400" height="300">
+![Mi Imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png)
 ## Selenium WebDriver para Calcular Porcentaje
 
 
