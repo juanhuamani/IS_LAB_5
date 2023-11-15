@@ -1,0 +1,17 @@
+{
+  "name": "islab5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node testRunner.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qunit": "^2.20.0",
+    "qunit-tap": "^1.5.1",
+    "selenium-webdriver": "^4.15.0"
+  }
+}
