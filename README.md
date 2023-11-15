@@ -1,7 +1,6 @@
 # INGENERIA DE SOFTWARE LABORATORIO 5
 ![Mi Imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png)
-<br>
-<br>
+
 ## Selenium WebDriver para Calcular Porcentaje
 
 El código en `seleniumConfig.js` proporciona una función `calcular_porcentaje` que utiliza Selenium WebDriver para interactuar con el sitio web [Calculator.net](http://www.calculator.net/). La función toma dos parámetros, realiza operaciones en el sitio y devuelve el resultado del cálculo.
@@ -9,7 +8,7 @@ El código en `seleniumConfig.js` proporciona una función `calcular_porcentaje`
 - [Configuracion del Selenium ](seleniumConfig.js)
 
 ##  Pruebas de Unidad con QUnit
-<br>
+
 En el archivo `Pruebas.js`, se han implementado pruebas de unidad utilizando la biblioteca QUnit. Las pruebas verifican el correcto funcionamiento de la función `calcular_porcentaje` en diversos escenarios.
 
 - [QUnit tests ](Pruebas.js)
