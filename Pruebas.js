@@ -48,16 +48,16 @@ class TestCase {
 const miCaso = new TestCase();
 
 miCaso.runTest(async function (assert) {
-  const result = await calcular_porcentaje(5, 100);
+  const result = await calcularPorcentajePositivo(5, 100);
   this.addAssertion(result, "5", 'El resultado debería ser igual a 5');
 });
 
 miCaso.runTest(async function (assert) {
-  const result = await calcular_porcentaje(-50, -20);
+  const result = await calcularPorcentajeNegativos(-50, -20);
   this.addAssertion(result, "10", 'El resultado debería ser igual a 10');
 });
 
 miCaso.runTest(async function (assert) {
-  const result = await calcular_porcentaje(4, 23);
+  const result = await calcularPorcentajeErroneo(4, 23);
   this.addAssertion(result, "3", 'El resultado debería ser igual a 3');
 });
