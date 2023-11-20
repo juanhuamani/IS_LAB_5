@@ -35,3 +35,6 @@ Para ejecutar las pruebas, sigue estos pasos:
 |this.addAssertion(result,"10")|`calcular_porcentaje(-50,-20);`|El resultado debería ser igual a 10 (TRUE) |
 |this.addAssertion(result,"3")|`calcular_porcentaje(4,23);`|El resultado debería ser igual a 3 (FALSE) |
 
+<img src="/Captura de pantalla 2023-11-20 112535.png" alt="Descripción de la imagen" >
+
+
