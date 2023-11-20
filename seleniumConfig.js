@@ -1,6 +1,6 @@
 const { Builder, By, Key, until } = require('selenium-webdriver');
 
-async function calcular_porcentaje(num1, num2) {
+async function calcularPorcentaje(num1, num2) {
     driver = await new Builder().forBrowser('chrome').build();
     try {
         await driver.get('http://www.calculator.net/');
